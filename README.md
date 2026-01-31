@@ -46,7 +46,7 @@ It also supports Invidious.
 
 See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
 
-# Server
+# Server.
 
 The backend server code is available here: https://github.com/ajayyy/SponsorBlockServer
 
